@@ -1,0 +1,68 @@
+
+
+
+h1{
+  font-size: 96px;
+  font-family: 'Oswald', sans-serif;
+  color: #695857;
+
+}
+
+.navbar-brand{
+  font-size: 24px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+.nav-item{
+  padding-right: 25px;
+  padding-left: 25px;
+  font-size: 36px
+
+}
+body,html {
+    height:100%;
+    background-color: #ebd7d5
+
+}
+.featured-item, .on-sale, .best-selling{
+  font-size: 64px;
+  font-family: 'Oswald', sans-serif;
+}
+.featured-item{
+  color: #9c2574;
+}
+.on-sale{
+  color: #209133;
+}
+.best-selling{
+  color: #d1a326;
+}
+.card-body{
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 20px;
+}
+.card-title{
+  font-size: 36px;
+}
+.container-fluid {
+    min-height:100%;
+}
+.about-desc{
+  text-align: center;
+  line-height: 4.0;
+}
+.footer {
+    height:40px;
+    margin-top:-40px;
+    background-color: #757575
+}
+.card-img-overlay{
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+.footer-text{
+  color: white;
+  font-family: 'Gemunu Libre', sans-serif;
+
+}
