@@ -7,7 +7,16 @@ h1{
   color: #695857;
 
 }
-
+h2{
+  font-size: 84px;
+  font-family: 'Oswald', sans-serif;
+  color: #695857;
+}
+anime{
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
 .navbar-brand{
   font-size: 24px;
   font-family: 'Oswald', sans-serif;
